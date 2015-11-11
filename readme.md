@@ -18,17 +18,11 @@ Methods are triggered on the StickyScroll Object.
    StickyScroll.init({ .. optional ..} );
  ```
  
- ### Properties
- Property | Default | Description
+### Properties
+Property | Default | Description
 ------ | ------- | -----------
 stickyButton | '.top-btn':string | Class of "scroll to top" button
 lockTo | '.sitemap':string | Class of element we will stick to
 wrap | 'body':string | Class or ID of wrapping element
 padding | 10:number | Number of pixels to pad button from edge
 minScroll | 500:Number | Pixels to scroll before showing button 
-
-
-
-
-
-
